@@ -1,0 +1,52 @@
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\kargoTakip.exe
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\kargoTakip.deps.json
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\kargoTakip.runtimeconfig.json
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\kargoTakip.runtimeconfig.dev.json
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\kargoTakip.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\ref\kargoTakip.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\kargoTakip.pdb
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.csproj.AssemblyReference.cache
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.Form1.resources
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.csproj.GenerateResource.cache
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.AssemblyInfoInputs.cache
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.AssemblyInfo.cs
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.csproj.CoreCompileInputs.cache
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\ref\kargoTakip.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.pdb
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.genruntimeconfig.cache
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\FireSharp.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\System.Net.Http.Extensions.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\System.Net.Http.Primitives.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\System.Device.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.Map.resources
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\GMap.NET.Core.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\GMap.NET.WindowsForms.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\GMap.NET.WindowsPresentation.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\Elanur Özmen\source\repos\kargoTakip\kargoTakip\bin\Debug\net5.0-windows\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.Form1.resources
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.Map.resources
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.AssemblyInfo.cs
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.dll
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\ref\kargoTakip.dll
+\\Mac\Home\Desktop\kargoTakip\kargoTakip\obj\Debug\net5.0-windows\kargoTakip.pdb
